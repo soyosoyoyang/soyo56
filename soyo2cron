@@ -1,0 +1,2 @@
+*/1 * * * * find /home/soyo/桌面/videoSeach_test/ -name "*.txt" -type f -mmin -1 > soyo1.txt
+
